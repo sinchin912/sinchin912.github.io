@@ -129,6 +129,10 @@ p {
   margin-bottom: 1rem;
 }
 
+.rounded-circle {
+	height: 45px;
+	width:45px;
+}
 abbr[title],
 abbr[data-bs-original-title] {
   -webkit-text-decoration: underline dotted;
